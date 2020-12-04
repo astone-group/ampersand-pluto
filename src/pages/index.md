@@ -21,6 +21,12 @@ intro_actions:
     icon_class: lorem-ipsum
     new_window: false
     type: action
+  - label: lorem-ipsum
+    url: lorem-ipsum
+    style: link
+    icon_class: lorem-ipsum
+    new_window: false
+    type: action
 has_more_link: true
 more_link_text: Read more
 template: home
